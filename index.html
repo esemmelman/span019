@@ -1,0 +1,93 @@
+<!doctype html>
+<html lang="en" data-text-size="largest">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#111c2c">
+  <title>Spanish Practice · Definitions</title>
+  <link rel="stylesheet" href="styles.css?v=1.0.0">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to lesson</a>
+  <div class="app">
+    <aside class="sidebar" aria-label="Lesson navigation">
+      <div class="brand"><span class="brand-icon" aria-hidden="true">Aa</span><span>Spanish<br>Practice</span></div>
+      <p class="sidebar-caption">YOUR LESSONS</p>
+      <nav aria-label="Lessons">
+        <button class="lesson active" id="definitions-link" aria-current="page" aria-controls="definitions">1. Definitions<span aria-hidden="true">↗</span></button>
+        <button class="lesson" id="quiz-link" aria-controls="quiz">2. Quiz</button>
+        <button class="lesson" id="rules-link" aria-controls="rules" disabled aria-disabled="true" title="Get 100% on 2. Quiz to unlock this lesson.">3. The Rules</button>
+        <button class="lesson" id="conjugations-link" aria-controls="conjugations" disabled aria-disabled="true" title="Get 100% on 2. Quiz to unlock this lesson.">4. Conjugations</button>
+        <button class="lesson" id="conjugation-quiz-link" aria-controls="quiz" disabled aria-disabled="true" title="Get 100% on 2. Quiz to unlock this lesson.">5. Quiz</button>
+      </nav>
+      <p class="sidebar-note">Your pace.<br>Your way to learn.</p>
+    </aside>
+    <main id="main-content" tabindex="-1">
+      <header>
+        <h1>Irregular verbs · Preterite</h1>
+      </header>
+      <p class="version">Version 1.0.0</p>
+      <section class="controls" aria-label="Display settings">
+        <div class="translation-control">
+          <label id="translation-label" for="translations">English translations</label>
+          <button id="translations" class="switch" role="switch" aria-checked="true" aria-labelledby="translation-label"><span class="switch-track" aria-hidden="true"><span></span></span><span id="switch-state" aria-hidden="true">On</span></button>
+        </div>
+        <div class="size-control"><label for="text-size">Text size</label><select id="text-size"><option value="standard">Large</option><option value="larger">Extra large</option><option value="largest" selected>Largest</option></select></div>
+      </section>
+      <div id="definitions">
+      <section class="vocabulary" aria-labelledby="list-title">
+        <div class="list-heading"><h2 id="list-title">1. Definitions</h2><span>14 verbs</span></div>
+        <table>
+          <caption class="sr-only">Common beginner Spanish irregular verbs and their English translations</caption>
+          <thead><tr><th scope="col">SPANISH</th><th scope="col" class="english">ENGLISH</th></tr></thead>
+          <tbody>
+            <tr><th scope="row" lang="es">traer</th><td class="english">to bring</td></tr>
+            <tr><th scope="row" lang="es">andar</th><td class="english">to walk</td></tr>
+            <tr><th scope="row" lang="es">saber</th><td class="english">to know</td></tr>
+            <tr><th scope="row" lang="es">venir</th><td class="english">to come</td></tr>
+            <tr><th scope="row" lang="es">decir</th><td class="english">to say / to tell</td></tr>
+            <tr><th scope="row" lang="es">poner</th><td class="english">to put / to place</td></tr>
+            <tr><th scope="row" lang="es">estar</th><td class="english">to be (state or location)</td></tr>
+            <tr><th scope="row" lang="es">tener</th><td class="english">to have</td></tr>
+            <tr><th scope="row" lang="es">querer</th><td class="english">to want</td></tr>
+            <tr><th scope="row" lang="es">ser</th><td class="english">to be (identity or characteristics)</td></tr>
+            <tr><th scope="row" lang="es">ir</th><td class="english">to go</td></tr>
+            <tr><th scope="row" lang="es">hacer</th><td class="english">to do / to make</td></tr>
+            <tr><th scope="row" lang="es">dar</th><td class="english">to give</td></tr>
+            <tr><th scope="row" lang="es">ver</th><td class="english">to see</td></tr>
+          </tbody>
+        </table>
+      </section>
+      <p class="tip"><strong>A little clue:</strong> Learn these infinitives first, then practice their preterite forms for completed past actions.</p>
+      </div>
+      <section id="quiz" aria-label="Quiz" hidden>
+        <p id="quiz-progress"></p>
+        <div id="quiz-question">
+          <h3 id="quiz-word" lang="es" tabindex="-1"></h3>
+          <div id="quiz-answers" role="group" aria-labelledby="quiz-word"></div>
+        </div>
+        <p id="quiz-feedback" role="status" aria-live="polite" aria-atomic="true"></p>
+        <p id="quiz-answer-announcement" class="sr-only" role="status" aria-live="polite" aria-atomic="true"></p>
+        <button id="quiz-restart" class="quiz-action" hidden>Start a new quiz</button>
+      </section>
+      <section id="rules" aria-labelledby="rules-title" hidden>
+        <h2 id="rules-title" tabindex="-1">3. The Rules</h2>
+        <article class="rule"><h3>1. Completed actions in the past</h3><p>Use the preterite for completed past actions. Match the form to the subject: yo, tú, él/ella/usted, nosotros/nosotras, vosotros/vosotras, ellos/ellas/ustedes. Usted uses the él/ella form; ustedes uses the ellos/ellas form.</p></article>
+        <article class="rule"><h3>2. Irregular stems</h3><p>Learn these stems: traer → traj-, andar → anduv-, saber → sup-, venir → vin-, decir → dij-, poner → pus-, estar → estuv-, tener → tuv-, querer → quis-, hacer → hic-. Add -e, -iste, -o, -imos, -isteis, -ieron. These forms have no written accent marks.</p></article>
+        <article class="rule"><h3>3. Special forms: hacer, decir, traer</h3><p>Hacer changes hic- to hiz- in él/ella/usted: hizo. The j-stems use -eron: dijeron and trajeron, without an i.</p></article>
+        <article class="rule"><h3>4. Ser and ir share all six forms</h3><p>Fui, fuiste, fue, fuimos, fuisteis, fueron. Context tells you which verb is meant: El viaje fue tremendo (The trip was tremendous); Yo fui a Costa Rica (I went to Costa Rica).</p></article>
+        <article class="rule"><h3>5. Dar and ver</h3><p>Dar: di, diste, dio, dimos, disteis, dieron. Ver: vi, viste, vio, vimos, visteis, vieron. These short forms have no written accent marks. Ver follows regular -er preterite endings without the accents on vi and vio.</p></article>
+        <article class="rule"><h3>6. Find the subject, even with nos</h3><p>Nuestros profesores nos dijeron: the professors are the subject, so use ellos → dijeron. Nos means “to us”; it does not make the subject nosotros. Carmen nos dio su número: Carmen is the subject, so use ella → dio.</p></article>
+        <article class="rule"><h3>7. Meaning in context</h3><p>Saber in the preterite often means “found out”: Usted supo la noticia. Tener que means “had to”: Tuve que estudiar. No querer in the preterite can mean “refused”: María no quiso ir al baile.</p></article>
+        <article class="rule"><h3>8. Practice with pronouns</h3><p>Subject pronouns can be omitted when clear. The quiz asks for the verb alone. English “you” may correspond to tú or usted; learn both. Vosotros/vosotras means informal plural “you,” mainly in Spain.</p></article>
+      </section>
+      <section id="conjugations" aria-label="Conjugations" tabindex="-1" hidden>
+        <div id="conjugation-examples"></div>
+      </section>
+      <footer>Made for comfortable, focused practice.</footer>
+    </main>
+  </div>
+  <script src="conjugations.js?v=1.0.0"></script>
+  <script src="app.js?v=1.0.0"></script>
+</body>
+</html>
