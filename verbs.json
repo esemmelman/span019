@@ -1,0 +1,282 @@
+[
+  {
+    "verb": "traer",
+    "meaning": "to bring",
+    "present": [
+      "traigo",
+      "traes",
+      "trae",
+      "traemos",
+      "traéis",
+      "traen"
+    ],
+    "preterite": [
+      "traje",
+      "trajiste",
+      "trajo",
+      "trajimos",
+      "trajisteis",
+      "trajeron"
+    ]
+  },
+  {
+    "verb": "andar",
+    "meaning": "to walk",
+    "present": [
+      "ando",
+      "andas",
+      "anda",
+      "andamos",
+      "andáis",
+      "andan"
+    ],
+    "preterite": [
+      "anduve",
+      "anduviste",
+      "anduvo",
+      "anduvimos",
+      "anduvisteis",
+      "anduvieron"
+    ]
+  },
+  {
+    "verb": "saber",
+    "meaning": "to know",
+    "present": [
+      "sé",
+      "sabes",
+      "sabe",
+      "sabemos",
+      "sabéis",
+      "saben"
+    ],
+    "preterite": [
+      "supe",
+      "supiste",
+      "supo",
+      "supimos",
+      "supisteis",
+      "supieron"
+    ]
+  },
+  {
+    "verb": "venir",
+    "meaning": "to come",
+    "present": [
+      "vengo",
+      "vienes",
+      "viene",
+      "venimos",
+      "venís",
+      "vienen"
+    ],
+    "preterite": [
+      "vine",
+      "viniste",
+      "vino",
+      "vinimos",
+      "vinisteis",
+      "vinieron"
+    ]
+  },
+  {
+    "verb": "decir",
+    "meaning": "to say / to tell",
+    "present": [
+      "digo",
+      "dices",
+      "dice",
+      "decimos",
+      "decís",
+      "dicen"
+    ],
+    "preterite": [
+      "dije",
+      "dijiste",
+      "dijo",
+      "dijimos",
+      "dijisteis",
+      "dijeron"
+    ]
+  },
+  {
+    "verb": "poner",
+    "meaning": "to put / to place",
+    "present": [
+      "pongo",
+      "pones",
+      "pone",
+      "ponemos",
+      "ponéis",
+      "ponen"
+    ],
+    "preterite": [
+      "puse",
+      "pusiste",
+      "puso",
+      "pusimos",
+      "pusisteis",
+      "pusieron"
+    ]
+  },
+  {
+    "verb": "estar",
+    "meaning": "to be (state or location)",
+    "present": [
+      "estoy",
+      "estás",
+      "está",
+      "estamos",
+      "estáis",
+      "están"
+    ],
+    "preterite": [
+      "estuve",
+      "estuviste",
+      "estuvo",
+      "estuvimos",
+      "estuvisteis",
+      "estuvieron"
+    ]
+  },
+  {
+    "verb": "tener",
+    "meaning": "to have",
+    "present": [
+      "tengo",
+      "tienes",
+      "tiene",
+      "tenemos",
+      "tenéis",
+      "tienen"
+    ],
+    "preterite": [
+      "tuve",
+      "tuviste",
+      "tuvo",
+      "tuvimos",
+      "tuvisteis",
+      "tuvieron"
+    ]
+  },
+  {
+    "verb": "querer",
+    "meaning": "to want",
+    "present": [
+      "quiero",
+      "quieres",
+      "quiere",
+      "queremos",
+      "queréis",
+      "quieren"
+    ],
+    "preterite": [
+      "quise",
+      "quisiste",
+      "quiso",
+      "quisimos",
+      "quisisteis",
+      "quisieron"
+    ]
+  },
+  {
+    "verb": "ser",
+    "meaning": "to be (identity or characteristics)",
+    "present": [
+      "soy",
+      "eres",
+      "es",
+      "somos",
+      "sois",
+      "son"
+    ],
+    "preterite": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron"
+    ]
+  },
+  {
+    "verb": "ir",
+    "meaning": "to go",
+    "present": [
+      "voy",
+      "vas",
+      "va",
+      "vamos",
+      "vais",
+      "van"
+    ],
+    "preterite": [
+      "fui",
+      "fuiste",
+      "fue",
+      "fuimos",
+      "fuisteis",
+      "fueron"
+    ]
+  },
+  {
+    "verb": "hacer",
+    "meaning": "to do / to make",
+    "present": [
+      "hago",
+      "haces",
+      "hace",
+      "hacemos",
+      "hacéis",
+      "hacen"
+    ],
+    "preterite": [
+      "hice",
+      "hiciste",
+      "hizo",
+      "hicimos",
+      "hicisteis",
+      "hicieron"
+    ]
+  },
+  {
+    "verb": "dar",
+    "meaning": "to give",
+    "present": [
+      "doy",
+      "das",
+      "da",
+      "damos",
+      "dais",
+      "dan"
+    ],
+    "preterite": [
+      "di",
+      "diste",
+      "dio",
+      "dimos",
+      "disteis",
+      "dieron"
+    ]
+  },
+  {
+    "verb": "ver",
+    "meaning": "to see",
+    "present": [
+      "veo",
+      "ves",
+      "ve",
+      "vemos",
+      "veis",
+      "ven"
+    ],
+    "preterite": [
+      "vi",
+      "viste",
+      "vio",
+      "vimos",
+      "visteis",
+      "vieron"
+    ]
+  }
+]
